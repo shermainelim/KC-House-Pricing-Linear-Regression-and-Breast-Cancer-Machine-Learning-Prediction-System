@@ -20,7 +20,9 @@ healthcare analysis and diagnostics is growing rapidly. Most of the possible med
 minimized by using classification models that also allow the data to be analysed faster, more accurately 
 and more comprehensively (Kumari and Singh,2018).
 
-Added: 
+Names:
+
+Shermaine Lim Si Hui
 
 Ling Teck Moh Benedict
 
